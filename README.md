@@ -14,5 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning Rust
 
-[![sltlala's GitHub stats](https://github-readme-stats.vercel.app/api?username=sltlala)](https://github.com/anuraghazra/github-readme-stats)
+**Languages and Tools:**  
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
+
+<summary><b>Github Stats</b></summary>
+
+<div align="left"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sltlala&show_icons=true&locale=en&theme=highcontrast&hide_border=true" alt="sltlala" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=sltlala&show_icons=true&locale=en&layout=compact&langs_count=7&hide_border=true&hide=c&theme=highcontrast" alt="sltlala"/>
+
+<summary><b>Github Streaks</b></summary>
+<p align="Left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sltlala&theme=highcontrast" alt="sltlala" /></p>
